@@ -24,7 +24,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=FF7600)&nbsp;
 ![OracleDB](https://img.shields.io/badge/OracleDB-05122A?style=flat&logo=Oracle&logoColor=FF7600)&nbsp;
@@ -42,6 +42,6 @@
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawalamghar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=nawalamghar&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?nawalamghar&style=for-the-badge">
 </a> -->
